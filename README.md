@@ -18,7 +18,8 @@ Projet d'application - professionnel et personnel
 ## Projets Professionnels
 
 **[Nom du Projet Professionnel 1]**
-- Description : Une brève description du projet, son objectif, et son contexte professionnel.
+- Intitulé du projet : Utilisation de l'intéligence artificiel pour l'identifications des acteurs (entreprises) du secteurs palme et de ces dérivés
+- Description : Le projets constite dans un premiers temps à récupérer les information des différents acteurs dans un fichiers pdf (Nom socité, gps), géolocaliser ces acteurs, récupérer les informations de nom correcte sur maps, récupérer une capture d'écran sur maps du lieu, puis utuliser l'ia pour identifier le type de l'entreprise, il peut s'agit d'une plantation, d'une raffinerie, d'un crusher, d'un batiment en pleine ville... Objectif : Identification et géolocalisation de plantation de palmier et des pratiques de déforestation, et son contexte professionnel : Projets tracabilité palme.
 - Technologies Utilisées : Les langages de programmation, les frameworks, et les outils employés.
 - Rôles et Responsabilités : Votre position et vos principales responsabilités dans le projet.
 - Résultats : Les résultats ou les impacts positifs du projet sur l'entreprise.
