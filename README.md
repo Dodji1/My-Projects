@@ -15,6 +15,12 @@ Projet d'application - professionnel et personnel
 - Rôles et Contributions : Votre rôle dans le projet et vos principales contributions.
 - Résultats : Les résultats ou les retours obtenus grâce au projet.
 
+**[size-x]** **[fit-x]**
+- Description : GFID, identification unique des entreprise du monde, identifier les entreprises et améliorer la tracabilité des biens, étude de marché.
+- Technologies Utilisées : 
+- Rôles et Contributions : Votre rôle dans le projet et vos principales contributions.
+- Résultats : Les résultats ou les retours obtenus grâce au projet.
+
 ## Projets Professionnels
 
 **[Nom du Projet Professionnel 1]**
